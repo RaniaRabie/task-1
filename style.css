@@ -1,0 +1,17 @@
+body{
+    background-color: #ced4da;
+}
+
+h2{
+    background: #279070;
+    width: 300px;
+}
+
+p{
+    background-color: darkgray;
+    width: 300px;
+}
+
+.bg{
+    background-color: #279070;
+}
